@@ -4,12 +4,6 @@
 ### <u>ID3：</u>
 ##### 1.Entropy熵：
 
-设X是一个取有限个值的离散随机变量，其概率分布为
-
-![[公式]](https://www.zhihu.com/equation?tex=+++++++++++++++++++++++++++++++++++++P%28X%3Dx_i%29%3Dp_i%EF%BC%8Ci%3D1%2C2%2C...%2Cn)
-
-则随机变量 ![[公式]](https://www.zhihu.com/equation?tex=X) 的熵定义为 ![[公式]](https://www.zhihu.com/equation?tex=H%28X%29%3D-%5Csum_%7Bi%7D%5E%7Bn%7D%7Bp_ilogp_i%7D) 
-
 熵用于表示**随机变量不确定性的度量**
 X是一个取i个值的离散随机变量
 ![](C:\Users\86189\Desktop\20180825124137815 (1).png)
